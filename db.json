@@ -1,0 +1,32 @@
+{
+    "selectmoto":[
+        {
+        "id": 1,
+        "frutas":"Fan 160",
+        "valor":20.59,
+        "foto":"/assets/Fan160.png"
+        },
+        
+        {
+        "id": 2,
+        "frutas":"BMW 1250",
+        "valor":20.59,
+        "foto":"/assets/Bmw1250.png"
+        },
+
+        {
+        "id": 3,
+        "frutas":"Hornet",
+        "valor":20.59,
+        "foto":"/assets/Hornet.png"
+        },
+
+        {
+        "id": 4,
+        "frutas":"NH 190",
+        "valor":20.59,
+        "foto":"/assets/Nh190.png"
+        }
+
+    ]
+}
